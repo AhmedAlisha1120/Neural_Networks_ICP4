@@ -13,4 +13,4 @@ Execution Video
 
 Description
 
-Neural Networks ICP-3 is done completely using Jupyter Notebook. This Assignment covers topics related to Data Manipulation of data in csv file and Linear Regression of data.
+Neural Networks ICP-4 is done completely using Jupyter Notebook. This Assignment covers topics related to Keras Basics, adding dense layers and plotting the accuracy and loss of both training and validation data using the history object in the source code.
